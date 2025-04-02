@@ -11,6 +11,8 @@ Documentos para solicitar la instalación cargador eléctrico en copropiedades.
 * [RETIE 2024](https://www.minenergia.gov.co/documents/11566/4._Libro_3_-_Instalaciones.pdf) (Reglamento Técnico de Instalaciones Eléctricas) Artículo 3.17.7.
 * [LEY 675 DE 2001](https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4162), artículo 23 – Mejoras locativas.
 * [Decreto 1077 de 2015](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77216) Instalaciones eléctricas como mejoras locativas.
+* [Ley 142 de 1994](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=2752) Ley de servicios públicos que indica el principio de acceso universal
+
 
 
 
