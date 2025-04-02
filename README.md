@@ -2,7 +2,7 @@
 Documentos para solicitar la instalación cargador eléctrico en copropiedades.
 
 * [Presentación Asamblea](https://github.com/angoca/CargadorElectrico/blob/main/Instalacio%CC%81nCargador.pdf).
-* [Modelo de carga para solicitar la instalación de cargador, con todo el soporte jurídico](https://github.com/angoca/CargadorElectrico/blob/main/Modelo%20Carta%20Propiedad%20PH%20Versio%CC%81n%202.pdf).
+* [Modelo de carta para solicitar la instalación de cargador, con todo el soporte jurídico](https://github.com/angoca/CargadorElectrico/blob/main/Modelo%20Carta%20Propiedad%20PH%20Versio%CC%81n%202.pdf).
 * [Cargadores domésticos en Cortocircuito](https://www.motor.com.co/industria/Cargadores-domesticos-en-cortocircuito-20220722-0009.html).
 * [INSTALACIÓN CARGADORES PARA VEHÍCULOS ELÉCTRICOS EN LA PROPIEDAD HORIZONTAL](https://copropiedades.com.co/instalacion-cargadores-para-vehiculos-electricos-en-la-propiedad-horizontal/).
 * [Ley 1715 de 2014](https://www.minambiente.gov.co/wp-content/uploads/2021/06/ley-1964-2019.pdf): regula la integración de las energías renovables no convencionales al Sistema Energético Nacional de Colombia.
